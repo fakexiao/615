@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/paidan.png</file>
+        <file>img/qiangxiu.png</file>
+        <file>img/qingzhang.png</file>
+        <file>img/wurenji.png</file>
+        <file>img/yunshu.png</file>
+        <file>img/dankeng.jpg</file>
+        <file>img/bomb.jpg</file>
+        <file>img/stone.jpg</file>
+        <file>img/tushifang.jpg</file>
+        <file>img/yuan.png</file>
+        <file>img/sanjiao.png</file>
+        <file>img/ling.png</file>
+        <file>img/wujiao.png</file>
+    </qresource>
+</RCC>
